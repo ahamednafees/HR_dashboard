@@ -1,0 +1,8 @@
+.hero-section {
+  background: linear-gradient(120deg, #0d6efd, #0a58ca);
+  padding: 100px 0;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
